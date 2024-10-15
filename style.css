@@ -71,7 +71,7 @@ nav {
     padding: 0.8vw 1.5vw;
     text-align: center;
     justify-content: center;
-    background-color: rgba(150, 187, 124, 1);
+    background-color: #96bb7c;
     border-radius: 5px;
     border: none;
     color: white;
@@ -99,7 +99,7 @@ nav {
 }
 
 .left p {
-    color: rgba(115, 115, 115, 1);
+    color: #737373;
     margin-top: 25px;
     line-height: 32px;
     font-weight: 500;
@@ -157,4 +157,63 @@ nav {
 .right_img img {
     width: 100%;
 }
+.pactice-advice{
+    margin-left: 198px;
+    margin-right: 198px;
+}
+.first-div{
+    margin-top: 112px;
+    margin-bottom: 112px; 
+    font-family: "Montserrat", sans-serif;
+}
+part-2{
+    background-color: aliceblue;
+    height: 782px;
+}
 
+
+
+.conteinar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+
+}
+h1 {
+    font-weight: 700;
+    line-height: 60px;
+    font-size: 53px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+h6{
+    color: #96bb7c;
+}
+.section-2-head-4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.card{
+    width: 238px;
+    height: 288px;
+    margin-left: 10px;
+    padding: 40px 35px;
+}
+.card-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-img{
+    width: 100%;
+    height: auto;
+}
+.line{
+    width: 50px;
+    height: 2px;
+    background-color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

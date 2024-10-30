@@ -379,4 +379,89 @@ part-2{
       list-style: none;
       color: #96bb7c;
   }
-  
+  /* section 6 start from hare  */
+  .section-6{
+    margin-top: 160px;
+    margin-bottom: 160px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .live-head{
+    color: #252B42;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .p6{
+    color: #96BB7C;
+  }
+  .icons{
+    color: #F3CD03;
+  }
+  .designer{
+    color:#737373; ;
+  }
+  .section-6-bottom-div{
+    display: flex;
+  }
+  .section-6-card{
+    max-width:502px ;
+    /* height: 375px; */
+    padding:25px ;
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+
+  }
+  .section-6-photo{
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+  }
+  .section-6-content{
+    padding:30px ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   }
+  .section-6-p{
+    color: #737373;
+    text-align: center;
+    
+    
+  }
+  .fa-solid{
+    margin: 2px;
+  }
+  .ratings{
+    color:#F3CD03 ;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+ .regina-miles p{
+    text-align: center;
+    
+ }
+ /* section 7 start from hare */
+ .section-7-main{
+    margin: 160px 179px 160px 179px;
+    /* background-color: bisque; */
+ }
+ .section-7{
+    background-color: #FFF2F3;
+ }
+ .section-7-top{
+    margin-bottom: 80px;
+ }
+ .email{
+    width: 688px;
+    height:58px ;
+ }
+ .butt{
+    width: 117px;
+    height: 58px;
+    border-radius: 0px;
+    color:#FFFFFF ;
+    background-color:#96BB7C ;
+ }
+
+

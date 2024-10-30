@@ -1,0 +1,60 @@
+.live-head {
+    color: #252B42;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.p6 {
+    color: #96BB7C;
+}
+
+.icons {
+    color: #F3CD03;
+}
+
+.designer {
+    color: #737373;
+    ;
+}
+
+.section-6-card {
+    width: 502px;
+    height: 375px;
+    padding: 25px;
+    position: absolute;
+}
+
+.section-6-photo {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    position: relative;
+    left: 190px;
+}
+
+.section-6-content {
+    padding: 30px;
+    position: absolute;
+}
+
+.section-6-p {
+    color: #737373;
+    position: relative;
+    left: 39px;
+}
+
+/* .fa-solid fa-star{ */
+/* margin: 5px; */
+/* } */
+.section-6-icons {
+    color: #F3CD03;
+    position: relative;
+    left: 133px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.regina-miles {
+    position: relative;
+    left: 150px;
+}

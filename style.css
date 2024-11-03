@@ -463,5 +463,81 @@ part-2{
     color:#FFFFFF ;
     background-color:#96BB7C ;
  }
+/* section 8 starts from hare  */
+.love{
+    width: 96px;
+    height: 96px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: #FFFFFF;
+    background-color: #96bb7c;
+    border-radius: 50%;
+}
+.section-8-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* position: absolute; */
+}
+.new{
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  background-color:#E77C40 ;
+  align-items: center;
+  padding: 32px;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-top: -35px;
+  margin-inline-end: 0px; 
+  
+}
+.try-it{
+    height: 52px;
+    width: 243px;
+    color: #FFFFFF;
+    background-color: #96BB7C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.section-8-bottom-div{
+    display: flex;
+}
+.section-8-bottom-div fa-solid{
+    height: 48px;
+    width: 48px;
+    font-size: 48px;
+
+}
+.voilet{
+    background-color:#2D4059 ;
+    /* position: absolute; */
+}
+.child-u{
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: auto;
+
+
+}
+.fa-check{
+    height: 34px;
+    width: 34px;
+    background-color: #2DC071;
+    color: #FFFFFF;
+    border-radius: 50%;
+    text-align: center;
+    padding: 7px;
+}
+
 
 

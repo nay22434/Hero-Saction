@@ -12,6 +12,10 @@
 
 
 }
+
+body{
+    font-family: 'Montserrat';
+}
 /* first section  */
 .hero {
     width: 100%;
@@ -469,8 +473,7 @@ part-2{
     height: 96px;
     display: flex;
     justify-content: center;
-    align-items: center;
-
+    align-items:center;
     color: #FFFFFF;
     background-color: #96bb7c;
     border-radius: 50%;
@@ -538,6 +541,58 @@ part-2{
     text-align: center;
     padding: 7px;
 }
+.free{
+    color: #ffffff;
+}
 
-
-
+.taka{
+    color: #96bb7c;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+.per{
+    color: #8EC2F2;
+    font-weight: bold;
+}
+/* section 9 start  */
+.section-9-cont{
+    display: flex;
+}
+.ci{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fa-phone {
+    color: #96bb7c;
+    font-size: 30px;
+}
+.fa-location-dot{
+    color: #96bb7c;
+    font-size: 30px;
+}
+.fa-envelope {
+    color: #96bb7c;
+    font-size: 30px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAFAFA;
+}
+.fa-facebook{
+    color: #96BB7C;
+    font-size: 24px;
+    margin-right: 20px ;
+}
+.fa-instagram {
+    color: #96BB7C;
+    font-size: 24px;
+    margin-right: 20px;
+}
+.fa-twitter {
+    color: #96BB7C;
+    font-size: 24px;
+    margin-right: 20px;
+}
